@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/buddi-colab/blob/main/HumanGaussian_colab.ipynb) | buddi_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/buddi-colab/blob/main/buddi_colab.ipynb) | buddi_colab
 
 ### 🧬 Code
 https://github.com/muelea/buddi
