@@ -18,6 +18,7 @@ https://arxiv.org/abs/2306.09337
 https://muelea.github.io/buddi/
 
 ### 🖼 Output
+![0173acb5-b347-4f59-87dd-13f3effd5f80](https://github.com/camenduru/buddi-colab/assets/54370274/d3904747-dcb8-4639-9da6-7a9ce05e174f)
 ![8a92685f-2bd6-42c5-a4cd-d187049a6f44](https://github.com/camenduru/buddi-colab/assets/54370274/f4412dd0-bc49-4d9a-b3d1-bcdc6da044aa)
 ![14c7e2d3-374a-44b6-b92c-6e684ee8111e](https://github.com/camenduru/buddi-colab/assets/54370274/e639d29e-9faa-4020-8a36-85310c07ae92)
 ![03093932-37f3-47b2-9fdd-e4775eadf11b](https://github.com/camenduru/buddi-colab/assets/54370274/9c544f6c-1aae-486a-845c-aaf23673dbb1)
