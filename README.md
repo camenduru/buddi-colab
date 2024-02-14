@@ -7,6 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/buddi-colab/blob/main/buddi_colab.ipynb) | buddi_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P7x2gY_VuFz5yjZHTRfEBzsEmA-JYGlE) | buddi_colab (Author Colab)
 
 ### 🧬 Code
 https://github.com/muelea/buddi
